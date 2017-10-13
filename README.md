@@ -1,6 +1,6 @@
 # POC Related with react-native. One sorce 3 platforms (Web, IOS, Android)
 
-##How to make it run:
+## How to make it run:
 
 First of all you must have react-native-client running on your system
 
@@ -35,3 +35,7 @@ Negative points:
 - Some CSS features are hard to replicate on a mobile environment (shadows, blurs, animations etc...)
 
 - Auto sized boxes are hard to replicate on RN
+
+
+As you can see on the screenshots the final result are really close between devices:
+
