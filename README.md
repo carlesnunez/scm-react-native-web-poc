@@ -13,13 +13,13 @@ Mobile version:
 run react-native run-ios (requires xcode)
 ```
 
-[Imgur](https://i.imgur.com/LMTmV0i.png)
+![Imgur](https://i.imgur.com/LMTmV0i.png)
 
 Web version:
 ```
 ./node_modules/.bin/webpack-dev-server --inline
 ```
-[Imgur](https://i.imgur.com/oWjV1d0.png)
+![Imgur](https://i.imgur.com/oWjV1d0.png)
 
 
 ## Positive points regarding the code:
