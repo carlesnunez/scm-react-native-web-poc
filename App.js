@@ -35,25 +35,6 @@ export default class App extends Component {
                     description='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore voluptatum minus nihil, eum perspiciatis?'
                   />
               </View>
-              <View style={{ marginTop: 10 }}>
-                  <CardArticle
-                    link='https://github.com/SUI-Components/sui-components'
-                    media={{
-                      src: 'http://lorempicsum.com/simpsons/360/300/4',
-                      alt: 'Article card'
-                    }}
-                    tag={{
-                      url: 'http://www.coches.net/novedades/',
-                      text: 'The simpsons label soooo long'
-                    }}
-                    comments={{
-                      url: 'http://www.coches.net/opiniones/nuevo-hyundai-i10-presentacion',
-                      count: 109
-                    }}
-                    title='Article simpsons long image card'
-                    description='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore voluptatum minus nihil, eum perspiciatis?'
-                  />
-                </View>
     </View>
   }
 }
