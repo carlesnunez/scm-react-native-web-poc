@@ -1,6 +1,7 @@
 # POC Related with react-native. One sorce 3 platforms (Web, IOS, Android)
 
-How to make it run:
+##How to make it run:
+
 First of all you must have react-native-client running on your system
 
 1 - Download the repo
@@ -17,3 +18,20 @@ Web version:
 ./node_modules/.bin/webpack-dev-server --inline
 ```
 
+Positive points regarding the code:
+
+- For small UI components this solution could be really powerfull and agile to have code on prod in 3 platforms at once.
+
+- Environment setup is not so painful.
+
+- Development is so fast.
+
+Negative points:
+
+- We should invest time to know how to integrate partial RN code on an existing IOS/Android project
+
+- Is a cool project but doesn't have alot of tags that can be used [Available tags here](https://necolas.github.io/react-native-web/storybook/)
+
+- Some CSS features are hard to replicate on a mobile environment (shadows, blurs, animations etc...)
+
+- Auto sized boxes are hard to replicate on RN
