@@ -13,12 +13,16 @@ Mobile version:
 run react-native run-ios (requires xcode)
 ```
 
+[Imgur](https://i.imgur.com/LMTmV0i.png)
+
 Web version:
 ```
 ./node_modules/.bin/webpack-dev-server --inline
 ```
+[Imgur](https://i.imgur.com/oWjV1d0.png)
 
-Positive points regarding the code:
+
+## Positive points regarding the code:
 
 - For small UI components this solution could be really powerfull and agile to have code on prod in 3 platforms at once.
 
@@ -26,7 +30,7 @@ Positive points regarding the code:
 
 - Development is so fast.
 
-Negative points:
+## Negative points:
 
 - We should invest time to know how to integrate partial RN code on an existing IOS/Android project
 
