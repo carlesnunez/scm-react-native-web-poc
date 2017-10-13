@@ -24,11 +24,11 @@ Web version:
 
 ## Positive points regarding the code:
 
-- For small UI components this solution could be really powerfull and agile to have code on prod in 3 platforms at once.
+- For small UI components this solution could be really powerful and agile to have code on prod in 3 platforms at once.
 
 - Environment setup is not so painful.
 
-- Development is so fast.
+- Fast development
 
 ## Negative points:
 
