@@ -16,7 +16,6 @@ export default class App extends Component {
 
   render() {
     return <View style={styles.container}>
-                <View style={{marginBottom: 10}}>
                   <CardArticle
                     link='https://github.com/SUI-Components/sui-components'
                     media={{
@@ -34,7 +33,6 @@ export default class App extends Component {
                     title='Article card'
                     description='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore voluptatum minus nihil, eum perspiciatis?'
                   />
-              </View>
     </View>
   }
 }
@@ -45,15 +43,5 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: '#F5FCFF',
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
+  }
 });
