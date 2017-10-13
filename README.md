@@ -1,4 +1,4 @@
-# POC Related with react-native. One sorce 3 platforms (Web, IOS, Android)
+# POC Related with react-native. One source 3 platforms (Web, IOS, Android)
 
 ## How to make it run:
 
